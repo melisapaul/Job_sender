@@ -1,0 +1,7 @@
+python-dotenv
+schedule
+APScheduler
+requests
+beautifulsoup4
+yagmail
+pandas

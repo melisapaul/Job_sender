@@ -1,0 +1,18 @@
+{
+  "email": {
+    "sender": "paulmelisa19@gmail.com",
+    "password": "gvszlsiizqopdcxu",
+    "recipient": ["yoursayann@gmail.com", "melisapaul756@gmail.com"],
+    "subject": "Daily Report",
+    "schedule": "00:13"
+  },
+  "scraper": {
+    "enabled": true,
+   "url": "https://remoteok.com/remote-dev-jobs",
+    "schedule": "daily"
+  },
+  "file_organizer": {
+    "enabled": true,
+    "path": "C:/Users/Downloads"
+  }
+}
